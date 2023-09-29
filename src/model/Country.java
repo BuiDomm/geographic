@@ -36,6 +36,7 @@ public class Country {
     public void setTotalArea(float totalArea) {
         this.totalArea = totalArea;
     }
+    //1
 
     @Override
     public String toString() {

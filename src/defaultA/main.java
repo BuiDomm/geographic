@@ -15,4 +15,5 @@ public class main {
         ManageEastAsiaCountries ma = new ManageEastAsiaCountries();
         ma.run();
     }
+    //1
 }

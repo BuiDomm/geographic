@@ -22,6 +22,8 @@ public class EastAsiaCountries extends Country {
     public String getCountryTerrain() {
         return countryTerrain;
     }
+    
+    //1
 
     public void setCountryTerrain(String countryTerrain) {
         this.countryTerrain = countryTerrain;
